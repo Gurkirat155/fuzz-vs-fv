@@ -1,4 +1,4 @@
-# Fuzzing formally verified contracts to reproduce popular security issues
+# Fuzzing formally verified contracts to reproduce popular security issues 
 
 This repository contains solidity implementations of the selected invariants for popular projects. Follow instructions given below to run Echidna to test these invariants.
 
